@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# Site settings
+title: Kunal Bhardwaj | Data Scientist & AI Product Strategist
+description: Portfolio for [Kunal Bhardwaj], a product-focused data scientist specializing in taking Generative AI and ML models from concept to market.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://AI-alchemist-kunal.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Kunal Bhardwaj
+user_description: I'm a data scientist passionate about building and launching real-world AI products. With a strong foundation in Generative AI, machine learning, and product management, I specialize in translating complex data insights into business strategy and product-led growth.
+user_title: Data Scientist | AI Product Strategist
+email: kbms1412@gmail.com
+github_username:  AI-alchemist-kunal
+# gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
