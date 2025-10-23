@@ -21,15 +21,4 @@
   border: 4px solid rgba(255, 255, 255, 0.8); /* Semi-transparent white border */
 }
 
-/*
-================================================================================
-  Custom: Reduce Header Font Size
-================================================================================
-*/
-.site-title {
-  font-size: 3rem; /* Adjust this value for your name */
-}
 
-.site-description {
-  font-size: 1.5rem; /* Adjust this value for your title */
-}
